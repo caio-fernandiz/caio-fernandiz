@@ -37,7 +37,7 @@
 
 ###
 
-<img align="right" height="310" src="https://i.pinimg.com/originals/d9/db/c8/d9dbc83cd77bbbbcde3cca8d0f5cbb74.gif"  />
+<img align="right" height="200" src="https://i.pinimg.com/originals/d9/db/c8/d9dbc83cd77bbbbcde3cca8d0f5cbb74.gif"  />
 
 ###
 
