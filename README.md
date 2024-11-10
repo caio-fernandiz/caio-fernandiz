@@ -5,6 +5,9 @@
 </div>
 
 
+<h2 align="left">These are the techs I use</h2>
+
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
@@ -25,7 +28,7 @@
 
 ###
 
-<h2 align="left">E essas são as minhas redes Sociais!</h2>
+<h2 align="left">And these are my links!</h2>
 
 ###
 
