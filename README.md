@@ -1,6 +1,9 @@
-<h2 align="left">Olá! Essas são as techs que eu uso!</h2>
+<div id="user-content-toc">
+  <ul align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=30&pause=1000&center=true&width=435&lines=Hey%2C+I'm+C410F3R-090+%F0%9F%A4%96" alt="Typing SVG" /></a>
+  </ul>
+</div>
 
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
