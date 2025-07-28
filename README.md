@@ -103,6 +103,15 @@
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo"/>
   <img width="12"/>
+
+  <p></p>
+
+  <h4 align="left">IDE's</h4>
+  <img src="https://skillicons.dev/icons?i=webstorm" height="40" alt="webstorm logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=phpstorm" height="40" alt="phpstorm logo"/>
+  <img width="12"/>
+  
   
 </div>
 
