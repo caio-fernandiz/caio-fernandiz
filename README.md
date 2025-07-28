@@ -4,131 +4,135 @@
 </div>
 
 
-<h2 align="left">Tecnologias que eu uso</h2>
 
-
-<div align="left">
-
-  <h4 align="left">Para meu uso pessoal</h4>
-  <img src="https://skillicons.dev/icons?i=arch" height="40" alt="arch logo"/> 
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"/> 
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"/> 
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="obsidian logo"/> 
-  <img width="12"/>
-
-
- <p></p>
-
-  <h4 align="left">Para trabalho em equipe</h4>
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"/> 
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=bitbucket" height="40" alt="bitbucket logo"/> 
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"/> 
-  <img width="12"/>
-
-<p></p>
-
-  <h4 align="left">Bancos de dados</h4>
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"/> 
-  <img width="12"/> 
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"/>
-  <img width="12"/>
-  
-  <p></p>
-
-  <h4 align="left">Linguagens que eu uso</h4>
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"/> 
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo"/>
-  <img width="12"/>
-  
-
-  <p></p>
-
-  <h4 align="left">Frameworks que eu uso </h4>
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"/>
-  <img width="12"/>
-
-  <p></p>
-
-  <h4 align="left">IDE que eu uso</h4>
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"/>
-  <img width="12"/>
-  
-  
-</div>
-
-<h2 align="left">Tecnologias que eu já tive contato / estou aprendendo</h2>
-
-<div align="left">
-
-  <h4 align="left">Para ajudar nos trabalhos</h4>
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"/>
-  <img width="12"/>
-
-  <p></p>
-
-  <h4 align="left">Banco de dados</h4>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"/>
-  <img width="12"/>
-
-  <p></p>
-
-  <h4 align="left">Linguages</h4>
-  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"/>
-  <img width="12"/>
-  
-  <p></p>
-
-  <h4 align="left">Frameworks</h4>
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo"/>
-  <img width="12"/>
-
-  <p></p>
-
-  <h4 align="left">IDE's</h4>
-  <img src="https://skillicons.dev/icons?i=webstorm" height="40" alt="webstorm logo"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=phpstorm" height="40" alt="phpstorm logo"/>
-  <img width="12"/>
-  
-  
-</div>
-
-###
-
-<h2 align="left">E esses são meus links!</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/@CaioFer090" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <br>
-  <a href="https://www.linkedin.com/in/caio-fernandes-846a64235/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
+<table align="center">
+  <tr>
+    <td><br><br><br><h2 align="center">Tecnologias que eu uso</h2><p>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</p></td>
+    <td><h2 align="center">Tecnologias que já tive contato / estou aprendendo</h2></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h4>Para meus projetos pessoais</h4>
+    </td>
+    <td align="center">
+      <h4>Em outros projetos</h4>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3></h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="40"/>
+      <img width="10"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40"/>
+      <img width="10"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40"/>
+      <img width="10"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="40"/>
+      <h3></h3>
+    </td>
+    <td align="center">
+      <h3></h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40"/>
+      <img width="10"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" height="40"/>
+      <h3></h3>
+    </td>
+  </tr>
+  <tr>
+    <tr>
+    <td colspan="2" align="center">
+      <h4>Bancos de Dados</h4>
+ </tr>
+    <td align="center">
+      <h3></h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40"/>
+      <img width="10"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40"/>
+      <h3></h3>
+    </td>
+    <td align="center">
+      <h3></h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40"/>
+      <h3></h3>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h4>Linguagens</h4>
+ </tr>
+  <tr>
+    <td align="center">
+      <h3></h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40"/>
+      <img width="10"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40"/>
+      <img width="10"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40"/>
+      <img width="10"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40"/>
+      <img width="10"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40"/>
+      <img width="10"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40"/>
+      <h3></h3>
+    </td>
+    <td align="center">
+      <h3></h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="40"/>
+      <h3></h3>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h4>Frameworks</h4>
+ </tr>
+  <tr>
+    <td align="center">
+      <h3></h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40"/>
+      <img width="10"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40"/>
+      <h3></h3>
+    </td>
+    <td align="center">
+      <h3></h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="40"/>
+      <img width="10"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="40"/>
+      <h3></h3>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h4>IDE's</h4>
+ </tr>
+  <tr>
+    <td align="center">
+      <h3></h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="40"/>
+      <h3></h3>
+    </td>
+    <td align="center">
+      <h3></h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" height="40"/>
+      <img width="10"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" height="40"/>
+      <img width="10"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="40"/>
+      <img width="10"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" height="40"/>
+      <h3></h3>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h4>Para trabalho em equipe</h4>
+ </tr>
+  <td colspan="2" align="center">
+    <h3></h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="40"/>
+    <img width="10"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" height="40"/>
+    <h3></h3>
+ </tr>
+</table>
