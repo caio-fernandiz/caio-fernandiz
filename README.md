@@ -42,15 +42,9 @@
   
   <p></p>
 
-  <h4 align="left">Para projetos JAVA</h4>
+  <h4 align="left">Linguagens que eu uso</h4>
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"/>
-  <img width="12"/>
-  
-  <p></p>
-
-  <h4 align="left">Para projetos PHP</h4>
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"/> 
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"/>
@@ -59,6 +53,15 @@
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"/>
   <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo"/>
+  <img width="12"/>
+  
+
+  <p></p>
+
+  <h4 align="left">Frameworks que eu uso </h4>
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"/>
+  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"/>
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"/>
@@ -66,10 +69,39 @@
 
   <p></p>
 
-  <h4 align="left">Para projetos comm hardware / Arduino</h4>
+  <h4 align="left">IDE que eu uso</h4>
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"/>
   <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo"/>
+  
+  
+</div>
+
+<h2 align="left">Tecnologias que eu já tive contato / estou aprendendo</h2>
+
+<div align="left">
+
+  <h4 align="left">Para ajudar nos trabalhos</h4>
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"/>
+  <img width="12"/>
+
+  <p></p>
+
+  <h4 align="left">Banco de dados</h4>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"/>
+  <img width="12"/>
+
+  <p></p>
+
+  <h4 align="left">Linguages</h4>
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"/>
+  <img width="12"/>
+  
+  <p></p>
+
+  <h4 align="left">Frameworks</h4>
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo"/>
   <img width="12"/>
   
 </div>
