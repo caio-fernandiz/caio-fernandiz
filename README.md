@@ -37,8 +37,7 @@
       <h3></h3>
     </td>
   </tr>
-  <tr>
-    <tr>
+<tr>
     <td colspan="2" align="center">
       <h4>Bancos de Dados</h4>
  </tr>
